@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:041a0a,100:0a2e0f&height=160&section=header&text=kprprivate&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=auth%20infra%20that%20doesn%27t%20suck&descSize=15&descAlignY=62&descColor=11ff2a" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:041a0a,100:0a2e0f&height=160&section=header&text=Anonymous&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=owner%20of%20Olivia%20Auth&descSize=15&descAlignY=62&descColor=11ff2a" />
 </p>
 
 <br/>
 
 <p align="center">
-  building <strong><a href="https://olivia.run">Olivia Auth</a></strong> — the most secure authentication platform <em>ever built</em><br/>
-  <sub>military-grade encryption · real-time threat detection · makes KeyAuth look like a prototype</sub>
+  Building <strong><a href="https://olivia.run">Olivia Auth</a></strong> — the most secure authentication platform <em>ever built</em><br/>
+  <sub>Military-grade encryption · Real-time threat detection · Makes KeyAuth look like a prototype</sub>
 </p>
 
 <br/>
@@ -17,21 +17,25 @@
 
 <br/>
 
-### why not KeyAuth
+### Why Not KeyAuth
+
+<div align="center">
 
 | | KeyAuth | Olivia Auth |
-|---|---|---|
+|:---|:---:|:---|
 | Session security | plaintext API | RSA key exchange → AES-GCM + XOR obfuscation |
-| Discord integration | ❌ | native bot — create/revoke licenses from Discord |
+| Discord integration | ❌ | Native bot — create/revoke licenses from Discord |
 | Real-time commands | polling | Socket.IO push to connected clients |
-| Reseller system | limited | credit-based, full API, white-label |
+| Reseller system | limited | Credit-based, full API, white-label |
 | Team management | basic | 28 permission scopes, role presets, audit log |
-| File distribution | ❌ | built-in loader hosting on Cloudflare R2 |
-| Suspect detection | ❌ | multi-detector pipeline, alert jobs |
+| File distribution | ❌ | Built-in loader hosting on Cloudflare R2 |
+| Suspect detection | ❌ | Multi-detector pipeline, alert jobs |
+
+</div>
 
 ---
 
-### stack
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d0d0d" />
@@ -48,7 +52,7 @@
 
 ---
 
-### stats
+### Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=kprprivate&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=11ff2a&icon_color=11ff2a&text_color=8b949e&count_private=true" />
