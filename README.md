@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1a0d,100:162616&height=160&section=header&text=Anonymous&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=owner%20of%20Olivia%20Auth&descSize=15&descAlignY=62&descColor=11ff2a" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f0d,50:1a3d1a,100:0f2a0f&height=160&section=header&text=Anonymous&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=owner%20of%20Olivia%20Auth&descSize=15&descAlignY=62&descColor=11ff2a" />
 </p>
 
 <p align="center">
@@ -65,5 +65,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:162616,50:0d1a0d,100:0a0a0a&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2a0f,50:1a3d1a,100:0d1f0d&height=80&section=footer" />
 </p>
