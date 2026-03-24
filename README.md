@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:041a0a,100:0a2e0f&height=160&section=header&text=Anonymous&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=owner%20of%20Olivia%20Auth&descSize=15&descAlignY=62&descColor=11ff2a" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:020602,100:040d04&height=160&section=header&text=Anonymous&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=owner%20of%20Olivia%20Auth&descSize=15&descAlignY=62&descColor=11ff2a" />
 </p>
 
-<br/>
-
 <p align="center">
-  Building <strong><a href="https://olivia.run">Olivia Auth</a></strong> — the most secure authentication platform <em>ever built</em><br/>
-  <sub>Military-grade encryption · Real-time threat detection · Makes KeyAuth look like a prototype</sub>
+  Building <strong><a href="https://olivia.run">Olivia Auth</a></strong>, the most secure authentication platform <em>ever built</em><br/>
+  Military-grade encryption · Real-time threat detection · Makes KeyAuth look like a prototype
 </p>
 
 <br/>
@@ -67,5 +65,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2e0f,50:041a0a,100:0a0a0a&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040d04,50:020602,100:080808&height=80&section=footer" />
 </p>
