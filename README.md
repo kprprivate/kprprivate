@@ -1,17 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6e40c9&height=160&section=header&text=kprprivate&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=building%20auth%20infra%20that%20doesn%27t%20suck&descSize=16&descAlignY=62&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:041a0a,100:0a2e0f&height=160&section=header&text=kprprivate&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=auth%20infra%20that%20doesn%27t%20suck&descSize=15&descAlignY=62&descColor=11ff2a" />
 </p>
 
 <br/>
 
-## what i'm building
-
-**[Olivia Auth](https://olivia.run)** — software licensing & auth for developers who've outgrown KeyAuth.
+<p align="center">
+  building <strong><a href="https://olivia.run">Olivia Auth</a></strong> — the most secure authentication platform <em>ever built</em><br/>
+  <sub>military-grade encryption · real-time threat detection · makes KeyAuth look like a prototype</sub>
+</p>
 
 <br/>
 
 <p align="center">
-  <img src="./assets/preview.png" width="800" alt="Olivia Auth Dashboard" />
+  <img src="./assets/preview.png" width="820" alt="Olivia Auth Dashboard" />
 </p>
 
 <br/>
@@ -30,28 +31,28 @@
 
 ---
 
-## stack
+### stack
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Flask-11ff2a?style=for-the-badge&logo=flask&logoColor=000000&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Socket.IO-11ff2a?style=for-the-badge&logo=socketdotio&logoColor=000000&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d0d0d" />
 </p>
 
 ---
 
-## stats
+### stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kprprivate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kprprivate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8b949e&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kprprivate&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=11ff2a&icon_color=11ff2a&text_color=8b949e&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kprprivate&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=11ff2a&text_color=8b949e&langs_count=6" />
 </p>
 
 ---
@@ -62,5 +63,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d1117&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2e0f,50:041a0a,100:0a0a0a&height=80&section=footer" />
 </p>
