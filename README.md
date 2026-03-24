@@ -15,7 +15,7 @@
 
 <br/>
 
-### Why Not KeyAuth
+<h1 align="center">Why Not KeyAuth</h1>
 
 <div align="center">
 
